@@ -8167,7 +8167,9 @@ textarea.form-control {
 .user-img {
   background-size: cover;
   background-repeat: no-repeat;
-  background-position: center center; }
+  background-position: center center; 
+padding-top: 30%;
+    }
 
 .image-popup {
   cursor: -webkit-zoom-in;
