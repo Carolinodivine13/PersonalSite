@@ -7583,7 +7583,7 @@ h1, h2, h3, h4, h5,
     .hero-wrap .text .img {
       width: 200px;
       height: 200px;
-      margin: 0 auto;
+margin: 100% auto;
       -webkit-border-radius: 50%;
       -moz-border-radius: 50%;
       -ms-border-radius: 50%;
