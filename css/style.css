@@ -7449,6 +7449,7 @@ h1, h2, h3, h4, h5,
 
 #main {
   width: 100%;
+  
   float: right;
   -moz-transition: all 0.5s ease;
   -o-transition: all 0.5s ease;
@@ -7583,7 +7584,7 @@ h1, h2, h3, h4, h5,
     .hero-wrap .text .img {
       width: 200px;
       height: 200px;
-margin: 0% auto;
+      margin: 0 auto;
       -webkit-border-radius: 50%;
       -moz-border-radius: 50%;
       -ms-border-radius: 50%;
@@ -8167,9 +8168,7 @@ textarea.form-control {
 .user-img {
   background-size: cover;
   background-repeat: no-repeat;
-  background-position: center center; 
-padding-top: 30%;
-    }
+  background-position: center center; }
 
 .image-popup {
   cursor: -webkit-zoom-in;
@@ -8710,3 +8709,6 @@ padding-top: 30%;
       .services-1:hover h3:after {
         background: #000000; }
 
+
+
+        
